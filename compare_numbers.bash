@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#https://github.com/Mandijol/Bash_Script_beginner/blob/main/numbersscript.bash
+#https://github.com/Mandijol/Bash_Script_beginner
 
 echo 'Enter first number'
 #accept first inputfrom user
