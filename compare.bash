@@ -1,6 +1,9 @@
 #!/bin/bash
-
+echo 'Please enter first number'
 read a                         #read first input
+
+echo 'Please enter first number'
+
 read b                         #read second input
 
 
